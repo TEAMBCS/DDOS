@@ -9,7 +9,7 @@ To run this tool 🔥
 
 ```bash
 rm -rf DDOS
-git clone https://github.com/TEAMBCS/DDOS 
+git clone --depth=1 https://github.com/TEAMBCS/DDOS 
 cd DDOS
 python bcs-ddos.py
 ```
