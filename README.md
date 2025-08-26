@@ -1,6 +1,7 @@
 # POWERFUL DDOS TOOL
 
 ATTACK ON ANY WEBSITE AT YOUR OWN RISK🗿..
+![1000029133](https://github.com/user-attachments/assets/f7cdecad-3ccc-4f95-ad91-afe07033178b)
 
 ## COMMAND 
 
