@@ -28,7 +28,7 @@ rm -rf DDOS
 git clone https://github.com/TEAMBCS/DDOS
 cd DDOS
 chmod +x *
-python ddos.py
+python3 ddos.py
 ```
 ---
 ## Tool Pic 
