@@ -25,9 +25,10 @@ Unauthorized use against websites, servers, or networks without permission is il
 
 ```bash
 rm -rf DDOS
-git clone --depth=1 https://github.com/TEAMBCS/DDOS
+git clone https://github.com/TEAMBCS/DDOS
 cd DDOS
-python ddos2.py
+chmod +x *
+python ddos.py
 ```
 ---
 ## Tool Pic 
